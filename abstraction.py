@@ -11,4 +11,3 @@ class san(sandeep):
 
 ob=san()
 ob.fun1()
-
